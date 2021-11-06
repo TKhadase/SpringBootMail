@@ -1,0 +1,73 @@
+
+.divheader{
+	background-color:white;
+}
+
+.divbody{
+	background-color:white;
+}
+h3{
+	color: blue;
+	text-decoration: underline;
+}
+li{
+	font-size:15px;
+}
+
+i{
+	font-size:20px;
+	color:yellow;
+}
+.tableList {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 5px;
+	font-size:15px;
+	  height: 20px;
+}
+td {
+    color: black;
+}
+
+.trlist:nth-child(even){background-color: #f2f2f2}
+.trlist:hover{background-color:#f5f550}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+.pagingbar{
+	margin-bottom:auto;
+	text-align:center;
+}
+.centerData{
+	margin-left: auto;
+  margin-right: auto;
+}
+
+.left20{
+	margin-left:20%;
+}
+
+.left15{
+	margin-left:15%;
+}
+.button {
+  background-color: red; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+background-color: black;
+display: inline-block;
+color: white;
+}
